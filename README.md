@@ -5,7 +5,7 @@
 
 The official Python client for **[OKRouter](https://okrouter.com)**.
 
-OKRouter allows you to integrate **OpenAI (GPT-4), Anthropic (Claude 3), and Google (Gemini)** APIs using a single standardized interface.
+OKRouter allows you to integrate **OpenAI (GPT-5), Anthropic (Claude 4-5), and Google (Gemini-3-pro)** APIs using a single standardized interface.
 
 ## 🚀 Why use OKRouter?
 
